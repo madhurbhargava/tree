@@ -1,5 +1,5 @@
 # tree
-problems on trees
+generic problems on trees(without recursion)
 
 | Sn           | Trees          |
 |-------------|-------------| 
