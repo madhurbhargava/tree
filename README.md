@@ -10,11 +10,13 @@ generic problems on trees(without recursion)
 |5| [LC-637 Average of levels](https://github.com/madhurbhargava/tree/blob/master/lc_637_average_of_levels.java) |
 |6| [LC-662 Max width of binary tree](https://github.com/madhurbhargava/tree/blob/master/lc_662_max_width_of_binary_tree.java) |
 
+&nbsp;
 
+&nbsp;
 
 | Sn           | Heap          |
 |-------------|-------------| 
-|1| [LC-347 Binary Tree Inorder traversal](https://github.com/madhurbhargava/tree/blob/master/lc_94_binary_tree_inorder_traversal.java) |
+|1| [LC-347 Top K Frequent Elements](https://github.com/madhurbhargava/tree/blob/master/lc_347_top_k_frequent_elements.java) |
 
 
 
