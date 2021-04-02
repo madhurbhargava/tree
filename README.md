@@ -1,5 +1,5 @@
 # tree & heap
-generic problems on trees(without recursion)
+generic problems on trees & heaps(without recursion)
 
 | Sn           | Trees          |
 |-------------|-------------| 
@@ -9,8 +9,6 @@ generic problems on trees(without recursion)
 |4| [LC-107 Binary Tree Level Order traversal II](https://github.com/madhurbhargava/tree/blob/master/lc_107_binary_tree_level_order_traversal_2.java) |
 |5| [LC-637 Average of levels](https://github.com/madhurbhargava/tree/blob/master/lc_637_average_of_levels.java) |
 |6| [LC-662 Max width of binary tree](https://github.com/madhurbhargava/tree/blob/master/lc_662_max_width_of_binary_tree.java) |
-
-&nbsp;
 
 &nbsp;
 
