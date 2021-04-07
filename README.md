@@ -18,6 +18,7 @@ generic problems on trees & heaps(without recursion)
 |2| [LC-215 Kth Largest Element in an Array](https://github.com/madhurbhargava/tree/blob/master/lc_215_kth_largest_element_in_an_array.java) |
 |3| [LC-692 Top K Frequent words](https://github.com/madhurbhargava/tree/blob/master/lc_692_top_k_frequent_words.java) |
 |4| [LC-703 Kth Largest element in a stream](https://github.com/madhurbhargava/tree/blob/master/lc_703_kth_largest_element_in_a_stream.java) |
+|5| [LC-23 Merge K Sorted Lists](https://github.com/madhurbhargava/tree/blob/master/lc_23_merge_k_sorted_lists.java) |
 
 
 
